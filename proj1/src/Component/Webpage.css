@@ -1,0 +1,17 @@
+.Web{
+    
+    margin-left: 40px;
+    background-color: rgb(255, 255, 255);
+  }
+  *{
+
+    background-color: darkolivegreen;
+  }
+  
+  .img{
+    width:100%;
+     height:50%;
+  }
+  table,th,td,tr{
+    border: none;
+  }
